@@ -1,3 +1,3 @@
-import { TemplatePlugin } from './template-plugin';
+import { TestingPlugin } from './testing-plugin';
 
-export default TemplatePlugin;
+export default TestingPlugin;
